@@ -1,6 +1,5 @@
 
-numero_ganador = 2
-
+numero_ganador = 8
 
 numero_usuario = int(input("Adivina el numero"))
 if numero_ganador == numero_usuario:
